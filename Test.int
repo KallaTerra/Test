@@ -1,0 +1,12 @@
+// BEGIN_INTERNALS
+/*
+MAP_ZOOM: 1.000
+LAST_COMPILE_TIME: 1578235840
+DIR: code code\game code\game\mob code\game\turf icons maps maps\main 
+AUTO_FILE_DIR: ON
+MAP_ICON_TYPE: 0
+LAST_COMPILE_VERSION: 512.1488
+WINDOW: code\world.dm;icons\1.dmi;code\game\turf\_.dm;maps\main\main.dmm;code\game\mob\new_player.dm
+FILE: code\game\mob\new_player.dm
+*/
+// END_INTERNALS

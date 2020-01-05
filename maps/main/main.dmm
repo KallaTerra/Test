@@ -1,5 +1,6 @@
 "a" = (/turf/standart/floor,/area)
 "b" = (/turf/standart/wall,/area)
+"c" = (/obj,/turf/standart/floor,/area)
 
 (1,1,1) = {"
 aaaaaaaaaa
@@ -7,7 +8,7 @@ aaaaaaaaaa
 aaaaaaaaaa
 aabbbbbaaa
 aabaaabaaa
-aabaaabaaa
+aabacabaaa
 aabaaabaaa
 aabbabbaaa
 aaaaaaaaaa
